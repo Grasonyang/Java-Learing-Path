@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.event.ActionListener;
 import javax.swing.*;
 
-public class S1254013 {
+public class Q3 {
     private static boolean equal_pressed = false;
 
     public static void main(String[] args) {
